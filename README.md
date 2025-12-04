@@ -1,2 +1,2 @@
 # Online-Voting
-Online voting system is a web based application which helps voters to register , login and vote online in a secure manner
+Online voting system is a web based application designed to help voters to register , login , vote online for their preferred candidates and make the eletion process in a secure manner.
